@@ -9,4 +9,3 @@ for line in sys.stdin:
     except:
         ans += float(line)
 print(ans)
-return 0
