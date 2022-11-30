@@ -3,16 +3,16 @@
 ![tesst](https://github.com/takumaabe/robosys202x/actions/workflows/test.yml/badge.svg)
 ↑ テスト結果を反映したバッジの画像が埋め込まれる
 
-##インストール方法
+## インストール方法
 ```
 git clone https://github.com/takuma0114/robosys202x.git
 cd robosys202x
 ```
 
-##内容
+## 内容
 標準入力から読み込んだ数字から計算をして標準出力する。
 
-##使用方法
+## 使用方法
 ```
 $　seq n | ./plus 
 ```
